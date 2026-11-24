@@ -11,6 +11,7 @@ phone.
 - Hash files and text with the supported algorithms
 - Free hashing with SHA-256, SHA-1, MD5, and CRC32
 - HashVektor Pro access to additional algorithms, including native BLAKE3
+- Lifetime Google Play activation for a one-time price of $4.99
 - Compare hashes and inspect character-level differences
 - Display hashes as QR codes
 - Verify and create checksum lists
@@ -134,11 +135,9 @@ The release script writes the signed bundle and SHA-256 checksum to
 
 ## Documentation
 
-- [Android implementation plan](android-plan.md)
 - [Security and privacy](docs/security-privacy.md)
-- [Google Play listing](docs/play/listing/README.md)
-- [Native BLAKE3](native/blake3/README.md)
 
 ## License
 
-Add the repository license here once the distribution licence is finalized.
+HashVektor and this repository are proprietary commercial software. Copyright © 2026
+Planet Archives. All rights reserved. See [LICENSE](LICENSE) for the source-access terms.
