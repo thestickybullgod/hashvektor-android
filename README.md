@@ -135,7 +135,7 @@ The release script writes the signed bundle and SHA-256 checksum to
 
 ## Documentation
 
-- [Security and privacy](docs/security-privacy.md)
+- [Security and privacy](/security-privacy.md)
 
 ## License
 
