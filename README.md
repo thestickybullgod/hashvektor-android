@@ -136,7 +136,6 @@ The release script writes the signed bundle and SHA-256 checksum to
 
 - [Android implementation plan](android-plan.md)
 - [Security and privacy](docs/security-privacy.md)
-- [Core file-source seam handoff](docs/handoff-core-seam.md)
 - [Google Play listing](docs/play/listing/README.md)
 - [Native BLAKE3](native/blake3/README.md)
 
