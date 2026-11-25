@@ -4,6 +4,19 @@ HashVektor is an Android hashing and integrity app built with .NET MAUI. It uses
 HashVektor Core engine and is designed to keep files, hashes, and integrity reports on the
 phone.
 
+## HashVektor for Android Beta Testers Wanted
+
+HashVektor is an Android utility for calculating and verifying cryptographic file hashes.
+
+I'm currently looking for Android users to participate in the Google Play Closed Test.
+
+Current beta: 0.4.1
+ Distribution: Google Play Closed Testing
+
+Interested? Join the beta-testing discussion below.
+
+[GitHub Discussions](https://github.com/thestickybullgod/hashvektor-android/discussions)
+
 ## Features
 
 ### Available now
